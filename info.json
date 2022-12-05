@@ -107,6 +107,13 @@
             "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Liszt - Hungarian Rhapsody No. 9 in E Flat, S. 244 'Pesther Carneval'-RXaviRgJw10.mp4?raw=true"
         },
         {
+            "id": "mfYWRQ8MtmM",
+            "name": "Al Bowlly Bing Crosby Comparison-mfYWRQ8MtmM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Al Bowlly Bing Crosby Comparison-mfYWRQ8MtmM.mp4",
+            "size": 55.494752,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Al Bowlly Bing Crosby Comparison-mfYWRQ8MtmM.mp4?raw=true"
+        },
+        {
             "id": "wedfXsnYP4Y",
             "name": "Die Fledermaus - Ouvertuere-wedfXsnYP4Y.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Die Fledermaus - Ouvertuere-wedfXsnYP4Y.mp4",
@@ -198,6 +205,20 @@
             "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/BELEZA PULA-_znPZ7BeEFs.mp4?raw=true"
         },
         {
+            "id": "MN1t8CsltVo",
+            "name": "No. 1 - Allegro molto-MN1t8CsltVo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/No. 1 - Allegro molto-MN1t8CsltVo.mp4",
+            "size": 4.644857,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/No. 1 - Allegro molto-MN1t8CsltVo.mp4?raw=true"
+        },
+        {
+            "id": "V6brWE5kplY",
+            "name": "Yankee Doddle Rhythm-V6brWE5kplY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Yankee Doddle Rhythm-V6brWE5kplY.mp4",
+            "size": 4.231098,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Yankee Doddle Rhythm-V6brWE5kplY.mp4?raw=true"
+        },
+        {
             "id": "ELcwEGOWx-0",
             "name": "Keyboard Sonata No. 11 in B-Flat Major, Hob. XVI, 2 - II. Largo-ELcwEGOWx-0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Keyboard Sonata No. 11 in B-Flat Major, Hob. XVI, 2 - II. Largo-ELcwEGOWx-0.mp4",
@@ -210,6 +231,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Giorgio Moroder-I Wanna Funk Wth You Tonight-j34wOGuFW9o.mp4",
             "size": 14.632581,
             "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Giorgio Moroder-I Wanna Funk Wth You Tonight-j34wOGuFW9o.mp4?raw=true"
+        },
+        {
+            "id": "PhIrWtrKgDQ",
+            "name": "Rosenthal after Offenbach Ga\u00eet\u00e9 Parisienne ~ Complete Ballet-PhIrWtrKgDQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Rosenthal after Offenbach Ga\u00eet\u00e9 Parisienne ~ Complete Ballet-PhIrWtrKgDQ.mp4",
+            "size": 58.09005,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Rosenthal after Offenbach Ga\u00eet\u00e9 Parisienne ~ Complete Ballet-PhIrWtrKgDQ.mp4?raw=true"
         },
         {
             "id": "TojfzrJyVOQ",
@@ -254,5 +282,5 @@
             "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Koch, Friedrich Ernst (1862 - 1927) Symphony No 2 (1st mov)-7EgQcERjrtc.mp4?raw=true"
         }
     ],
-    "total_size": 477.64970400000004
+    "total_size": 600.1104609999999
 }
