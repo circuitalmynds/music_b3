@@ -1,5 +1,55 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "VijCE-3YvL8",
+            "name": "[Emanuel Ax] Haydn - Piano Sonata in C, No.60, Hob.XVI_50-VijCE-3YvL8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/[Emanuel Ax] Haydn - Piano Sonata in C, No.60, Hob.XVI_50-VijCE-3YvL8.mp4",
+            "size": 23.556852,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/[Emanuel Ax] Haydn - Piano Sonata in C, No.60, Hob.XVI_50-VijCE-3YvL8.mp4?raw=true"
+        },
+        {
+            "id": "lMgnO-qmgT8",
+            "name": "The Woman's Touch-lMgnO-qmgT8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/The Woman's Touch-lMgnO-qmgT8.mp4",
+            "size": 4.346144,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/The Woman's Touch-lMgnO-qmgT8.mp4?raw=true"
+        },
+        {
+            "id": "glU1pHWgliQ",
+            "name": "Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 9 Ricordanza (Andantino)-glU1pHWgliQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 9 Ricordanza (Andantino)-glU1pHWgliQ.mp4",
+            "size": 6.61379,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 9 Ricordanza (Andantino)-glU1pHWgliQ.mp4?raw=true"
+        },
+        {
+            "id": "fRzzwVGE7J0",
+            "name": "CABARET VOLTAIRE 'Colours' official music video Mute Records [HQ Audio]-fRzzwVGE7J0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/CABARET VOLTAIRE 'Colours' official music video Mute Records [HQ Audio]-fRzzwVGE7J0.mp4",
+            "size": 21.250553999999998,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/CABARET VOLTAIRE 'Colours' official music video Mute Records [HQ Audio]-fRzzwVGE7J0.mp4?raw=true"
+        },
+        {
+            "id": "nT5ivdEon18",
+            "name": "Debussy  - Printemps (Orchestre national de France _ Emmanuel Krivine)-nT5ivdEon18.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Debussy  - Printemps (Orchestre national de France _ Emmanuel Krivine)-nT5ivdEon18.mp4",
+            "size": 56.35838,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Debussy  - Printemps (Orchestre national de France _ Emmanuel Krivine)-nT5ivdEon18.mp4?raw=true"
+        },
+        {
+            "id": "_znPZ7BeEFs",
+            "name": "BELEZA PULA-_znPZ7BeEFs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/BELEZA PULA-_znPZ7BeEFs.mp4",
+            "size": 5.912081,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/BELEZA PULA-_znPZ7BeEFs.mp4?raw=true"
+        },
+        {
+            "id": "j34wOGuFW9o",
+            "name": "Giorgio Moroder-I Wanna Funk Wth You Tonight-j34wOGuFW9o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b3/videos/Giorgio Moroder-I Wanna Funk Wth You Tonight-j34wOGuFW9o.mp4",
+            "size": 14.632581,
+            "url": "https://github.com/circuitalmynds/music_b3/blob/main/videos/Giorgio Moroder-I Wanna Funk Wth You Tonight-j34wOGuFW9o.mp4?raw=true"
+        }
+    ],
+    "total_size": 132.670382
 }
